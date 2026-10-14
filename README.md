@@ -2,7 +2,7 @@
 
 Websites, Telegram bots and automation for small business. I work alone, so you talk to the person who builds it — from the first task to launch and handover.
 
-[jw-dev.pro](https://jw-dev.pro/) · [Telegram](https://t.me/m/UJKsItVvM2Ji) · info@jw-dev.pro
+[jw-dev.pro](https://jw-dev.pro/en/) · [Telegram](https://t.me/m/UJKsItVvM2Ji) · info@jw-dev.pro
 
 ### What I do
 
@@ -23,7 +23,7 @@ After launch you choose: take everything and run it yourself, or leave maintenan
 - **Integrations:** Meta Graph API, YouTube Data API, PageSpeed Insights, Claude
 - **Testing:** pytest
 
-Examples with numbers are on the site: [jw-dev.pro/cases](https://jw-dev.pro/cases/) (in Russian).
+Examples with numbers are on the site: [jw-dev.pro/en/cases](https://jw-dev.pro/en/cases/).
 
 ### Working together
 
